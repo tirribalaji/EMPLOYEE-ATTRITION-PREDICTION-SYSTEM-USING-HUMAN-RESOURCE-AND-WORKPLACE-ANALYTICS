@@ -1,0 +1,50 @@
+Source notes for Employee Attrition Prediction internship report
+
+1. EvaluationCriteria.docx
+- Problem Assessment must cover: problem analysis, key parameters, target community/user needs/preferences, and functional/non-functional requirements mapping.
+- Solution Design must cover: design blueprint, feasibility assessment, implementation plan, milestones, deadlines, resource allocation, and suitable technology stack.
+- Solution Development and Testing must cover: implementation as per technical specifications, testing, bug fixing if any, and performance evaluation against desired criteria.
+- Project Presentation / Learning Evaluation should be reflected through clear progress, outcomes, and technical skill demonstration.
+
+2. tableofcontents.pdf
+- Table of contents style uses centered uppercase title "TABLE OF CONTENTS".
+- Main chapter entries are uppercase/bold with chapter numbers aligned on the left and page numbers aligned on the right.
+- Subsections use decimal numbering (e.g., 1.1, 2.1, 3.1.1 where needed).
+- Dot leaders are used between section titles and page numbers.
+- Layout is formal and compact, with clear hierarchical indentation.
+- Ends with a REFERENCES entry.
+
+3. Remaining requirement to inspect
+- Chapter-1and2Smaple.pdf still needs to be reviewed for formatting and writing style replication in chapters 1 and 2.
+
+4. User constraints
+- Word (.docx) only.
+- Minimum 35 pages.
+- Use Python for coding.
+- Include result images in the final report.
+- Explain each section and figure in detail.
+- Generate code files and sample datasets related to the problem statement.
+- Prepare Chapter 1 and Chapter 2 like the attached sample.
+- Table of contents must visually follow the provided sample.
+
+5. Project topic
+- Employee Attrition Prediction System using HR and workplace analytics.
+- Expected content should include employee demographics, job satisfaction, salary, work experience, promotion history, attendance, overtime, performance ratings, and workplace behavior.
+- Expected outputs should include risk reports, workforce analytics, prediction results, and visualization dashboards.
+
+6. Default formatting to preserve from prior reports
+- Times New Roman font.
+- Justified paragraph alignment.
+- Professional academic tone.
+- Six chapters plus references.
+
+7. Chapter-1and2Smaple.pdf findings
+The Chapter 1 sample begins with a centered, uppercase chapter label followed by a centered uppercase chapter title. A short introductory narrative paragraph follows before numbered subsections begin. Section 1.1 is titled "Learning Objectives" and is followed by a sentence introducing the section, then bulleted learning outcomes written in complete sentences. Section 1.2 is titled "Outcomes Achieved" and follows the same pattern with an introductory sentence and detailed bullet points.
+
+The Chapter 2 sample begins with a centered, uppercase chapter label and a centered uppercase title, "OVERVIEW OF THE ORGANIZATION." Section 2.1 uses a paragraph-based introduction to the organization. Section 2.2 uses a subsection title "Vision, Mission, and Values" and presents items with bold lead labels such as Vision, Mission, and Values followed by explanatory text. Section 2.3 presents policy items as bullets with bold lead terms like Confidentiality and Professionalism. Section 2.4 lists the organizational structure using bullets with bold role names and explanations. Section 2.5 uses numbered categories and nested bullets for duties and responsibilities.
+
+The sample visually uses formal academic spacing, justified body text, Times-like serif typography, and generous margins. Chapters 1 and 2 should therefore mimic this structure closely: centered chapter heading, centered chapter title, introductory paragraph, then subsection numbering with mixed paragraph and bullet-based explanatory content.
+
+8. Implementation implication for this project
+For the Employee Attrition Prediction report, Chapter 1 should be formatted as Executive Summary with subsections such as Learning Objectives and Outcomes Achieved in the same style as the sample. Chapter 2 should be adapted as Overview of the Organization, framed around a realistic internship/organizational context for HR analytics, and should preserve the sample's subsection pattern, bold lead labels, and mixed bullet/paragraph presentation.
+
